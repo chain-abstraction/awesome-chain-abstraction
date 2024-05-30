@@ -48,6 +48,7 @@
 - [Aarc](https://twitter.com/0xAarc)
 - [Agoric](https://twitter.com/agoric)
 - [Connext](https://twitter.com/Connext)
+- [Epoch Protocol](https://twitter.com/0xEpochProtocol)
 - [Intentify](https://twitter.com/intentify_eth)
 - [Light](https://twitter.com/LightDotSo)
 - [Near Protocol](https://twitter.com/NEARProtocol)
