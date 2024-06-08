@@ -14,14 +14,18 @@
 - [Chain Abstraction: Shaping User-Centric Blockchain Interactions](https://paragraph.xyz/@cmtdigital/chain-abstraction)
 - [Chain Abstraction - The Ultimate User Experience? by Nairolf](https://0xnairolf.substack.com/p/chain-abstraction-the-ultimate-user)
 - [Chain Abstraction on Multiple Levels: Diverse User Experiences Inside Web3’s Evolution by Particle Network and Agoric](https://blog.particle.network/chain-abstraction-levels-user-experience)
+- [Mapping Chain Abstraction Onto a User Flow by Agoric, Particle Network, and Avail](https://agoric.com/blog/chain-abstraction/mapping-chain-abstraction-onto-a-user-flow)
 - [First Chain Abstraction Protocol by Socket](https://mirror.xyz/0x6FD2bd90D50eDEe139103454116F252f6F5eC928/zePFPVi6oPI2o_Q6jDrGYn6SBVOGMybnFKQJ-DDVKqc)
+- [Formally Defining "Chain Abstraction" by Particle Network](https://blog.particle.network/what-is-chain-abstraction-a-formal-definition)
 - [Getting started with Chain Abstraction by Agoric](https://agoric.com/blog/getting-started/getting-started-chain-abstraction)
 - [Introducing Chain Abstraction by Connext](https://medium.com/connext/introducing-chain-abstraction-9b8f6e4dc31a)
 - [Introducing a Fully Experessive Orchestration Layer by Okto](https://whitepaper.okto.tech/) 
 - [Navigating the Chain Abstraction Landscape: A Multi-Faceted Analysis by Particle Network](https://blog.particle.network/chain-abstraction-landscape-report/)
 - [On Chain Abstraction by Murphy Labs](https://mirror.xyz/blog.murphylabs.eth/V2IPN2Tu_iJYSl1IGpD4flCCD_vChcM2s_SR_QDeBUE)
 - [What is Chain Abstraction by Near Protocol](https://docs.near.org/build/chain-abstraction/what-is)
-- [Why everyone is wrong about chain abstraction](https://medium.com/@0xOrbLabs/chain-abstraction-providers-and-why-everyone-is-wrong-about-chain-abstraction-2dca20fa7fe3)
+- [Why everyone is wrong about chain abstraction by Orb Labs](https://medium.com/@0xOrbLabs/chain-abstraction-providers-and-why-everyone-is-wrong-about-chain-abstraction-2dca20fa7fe3)
+- [The 0-1 of Chain Abstraction by Shoal Research](https://www.shoal.gg/p/the-0-1-of-chain-abstraction)
+- [The definitive guide to chain abstraction by Blockworks and Particle Network](https://blockworks.co/news/definitive-guide-chain-abstraction)
 
 ## Twitter posts & threads
 
@@ -36,6 +40,7 @@
 - [Chain Abstraction Unveiled by Near Protocol](https://youtu.be/02m53YFmmdE?feature=shared)
 - [Cross Chain vs Chain Abstraction at Avail Fireside](https://www.youtube.com/watch?v=ahJnhgRqB7w&t=1084s&ab_channel=Avail)
 - [How Top Dapps Leverage Chain Abstraction](https://youtu.be/EQSH395StFY?si=T-MP9mBF2Qb8uJZb)
+- [How Chain Abstraction Unifies Web3 at Abstract Austin](https://www.youtube.com/watch?v=yDMRIrDMw30)
 - [Introducing the CAKE framework by Frontier tech](https://www.youtube.com/watch?v=6H0uo2UOIGs)
 - [Introduction to Chain Abstraction by Developer DAO](https://www.youtube.com/watch?v=IjRUYxioZLo)
 - [Modular Chain Abstraction by Celestia](https://www.youtube.com/watch?v=4rofowXig-o&t=62s&ab_channel=NEARProtocol)
