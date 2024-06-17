@@ -49,6 +49,7 @@
 - [Agoric](https://twitter.com/agoric)
 - [Connext](https://twitter.com/Connext)
 - [Intentify](https://twitter.com/intentify_eth)
+- [Halliday](https://x.com/hallidayhq)
 - [Light](https://twitter.com/LightDotSo)
 - [Near Protocol](https://twitter.com/NEARProtocol)
 - [Okto](https://twitter.com/okto_web3)
