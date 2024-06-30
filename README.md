@@ -17,11 +17,15 @@
 - [First Chain Abstraction Protocol by Socket](https://mirror.xyz/0x6FD2bd90D50eDEe139103454116F252f6F5eC928/zePFPVi6oPI2o_Q6jDrGYn6SBVOGMybnFKQJ-DDVKqc)
 - [Getting started with Chain Abstraction by Agoric](https://agoric.com/blog/getting-started/getting-started-chain-abstraction)
 - [Introducing Chain Abstraction by Connext](https://medium.com/connext/introducing-chain-abstraction-9b8f6e4dc31a)
-- [Introducing a Fully Experessive Orchestration Layer by Okto](https://whitepaper.okto.tech/) 
+- [Introducing a Fully Expressive Orchestration Layer by Okto](https://whitepaper.okto.tech/)
 - [Navigating the Chain Abstraction Landscape: A Multi-Faceted Analysis by Particle Network](https://blog.particle.network/chain-abstraction-landscape-report/)
 - [On Chain Abstraction by Murphy Labs](https://mirror.xyz/blog.murphylabs.eth/V2IPN2Tu_iJYSl1IGpD4flCCD_vChcM2s_SR_QDeBUE)
 - [What is Chain Abstraction by Near Protocol](https://docs.near.org/build/chain-abstraction/what-is)
 - [Why everyone is wrong about chain abstraction](https://medium.com/@0xOrbLabs/chain-abstraction-providers-and-why-everyone-is-wrong-about-chain-abstraction-2dca20fa7fe3)
+- [Chain Abstraction - The Final Narrative to Fix the Crypto UX Problem in Hundreds of Blockchains by 4pillars](https://4pillars.io/en/articles/chain-abstraction/public)
+- [The definitive guide to chain abstraction by Blockworks](https://blockworks.co/news/definitive-guide-chain-abstraction)
+- [Chain Abstraction - Solving Crypto's Biggest Problem by Messari](https://messari.io/report/chain-abstraction?utm_source=twitter&utm_medium=organic_social&utm_campaign=chain_abstraction&utm_content=research)
+- [Chain Abstraction: A Solution to a Siloed Blockchain Future by DAIC Capital](https://daic.capital/blog/chain-abstraction-explained)
 
 ## Twitter posts & threads
 
